@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dounann
 変更
 分を追加
+=======
+dounann
+>>>>>>> a59fb846bdfa7b896b0c07cd1bfb554db1d3eaf1
